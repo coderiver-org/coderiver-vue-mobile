@@ -9,9 +9,14 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "ajv": "^6.6.2",
     "axios": "^0.18.0",
+    "fastclick": "^1.0.6",
+    "lib-flexible": "^0.3.2",
+    "postcss-px2rem-exclude": "0.0.6",
     "vant": "^1.5.1",
     "vue": "^2.5.21",
+    "vue-lazyload": "^1.2.6",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
